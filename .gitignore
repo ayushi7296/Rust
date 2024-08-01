@@ -1,2 +1,2 @@
 #untracked files
-target/
+**/target/

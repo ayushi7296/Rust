@@ -1,0 +1,6 @@
+#untracked files
+**/target/
+
+.cargo
+
+.local
